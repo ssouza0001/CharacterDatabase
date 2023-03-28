@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "jsx": "react-jsx",
+      "sourceMap": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+    ]
+  }
+  
